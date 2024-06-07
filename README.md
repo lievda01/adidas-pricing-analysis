@@ -1,1 +1,1 @@
-# adidas-pricing-analysis
+# Adidas-Pricing-Analysis
